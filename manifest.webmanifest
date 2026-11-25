@@ -1,0 +1,75 @@
+{
+ "name": "ReRT EQD2 – Re-irradiation",
+ "short_name": "ReRT EQD2",
+ "description": "Cumulative EQD2 calculator for re-irradiation (head & neck, CNS, cranial SRS/SRT, thorax, abdomen, pelvis; up to three courses) with recovery, protocol limits, DVH import and PDF report. Runs offline. Designed by Ali Eid, Medical Physics Expert (EACMPE – Ireland). Under testing; comments to ali.aziz@nci.cu.edu.eg. Not a medical device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#faf7ef",
+ "theme_color": "#a8842c",
+ "lang": "en",
+ "categories": [
+  "medical",
+  "utilities"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "id": "/ReRT-EQD2/",
+ "prefer_related_applications": false,
+ "screenshots": [
+  {
+   "src": "screenshots/phone-1.png",
+   "sizes": "1080x1920",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Setup and protocol"
+  },
+  {
+   "src": "screenshots/phone-2.png",
+   "sizes": "1080x1920",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Cumulative EQD2 results"
+  },
+  {
+   "src": "screenshots/phone-3.png",
+   "sizes": "1080x1920",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Maximum dose options for the next course"
+  },
+  {
+   "src": "screenshots/phone-4.png",
+   "sizes": "1080x1920",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Cranial SRS/SRT course check"
+  },
+  {
+   "src": "screenshots/wide-1.png",
+   "sizes": "1920x1080",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "Results on desktop"
+  }
+ ]
+}
